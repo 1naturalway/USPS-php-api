@@ -1,5 +1,5 @@
 {
-  "name":        "vinceg/usps-php-api",
+  "name":        "1naturalway/usps-php-api",
   "type":        "library",
   "description": "PHP wrapper for USPS Web Tools API",
   "keywords":    ["usps", "api"],
@@ -16,6 +16,10 @@
     },
     {
       "name": "Ryan Hayle",
+      "role": "Developer"
+    },
+    {
+      "name": "Andrew Donald Johnson",
       "role": "Developer"
     }
   ],

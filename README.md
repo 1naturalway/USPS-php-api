@@ -22,21 +22,17 @@ Requirements
 
 Install
 =======
-`composer require vinceg/usps-php-api`
+`composer require 1naturalway/usps-php-api`
 
 Package
 =======
 
-https://packagist.org/packages/vinceg/usps-php-api
+https://packagist.org/packages/1naturalway/usps-php-api
 
 Examples
 =======
 
 Please check the 'demos' directory for usage examples on the various types of api calls and actions you can perform.
-
-Authors
-=======
-Vincent Gabriel <http://vadimg.com>
 
 License
 =======
